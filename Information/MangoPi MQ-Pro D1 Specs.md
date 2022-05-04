@@ -1,0 +1,14 @@
+## Specifications
+- SoC – Allwinner D1 C906 RISC-V processor @ up to 1GHz with G2D 2D graphics accelerator
+- System Memory – 512MB or 1GB(1) DDR3(L)
+- Storage – MicroSD card socket
+- Display – mini HDMI 1.4 port up to 1080p60 or 4Kp30, 20-pin MIPI DSI, CTP, LVDS FPC connector
+- Camera I/F – 24-pin DVP/RGMII connector
+- Audio – Audio out pads
+- Networking
+- 2.4Ghz 802.11b/g/n WiFi 4 and Bluetooth 4.2 via RTL8723DS module + u.FL antenna connector
+- Ethernet via expansion board connected to 24-pin DVP/RGMII connector
+- USB – 1x USB OTG Type-C port, 1x USB host Type-C port
+- Expansion – 40-pins Raspberry Pi compatible GPIO header
+- Power Supply – 5V via USB Type-C port or 40-pins GPIO header
+- Dimensions – 65 x 30 mm

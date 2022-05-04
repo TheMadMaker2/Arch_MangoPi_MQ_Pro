@@ -1,0 +1,9 @@
+Install
+	https://wiki.archlinux.org/title/User:Cmsigler/RISC-V#Target_hardware
+	https://github.com/sehraf/riscv-arch-image-builder
+	https://linux-sunxi.org/Linux_mainlining_effort#Status_Matrix
+	https://github.com/orgs/archlinux-riscv/repositories
+
+cross compiling
+	https://github.com/riscv-collab/riscv-gnu-toolchain
+
